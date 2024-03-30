@@ -1,0 +1,70 @@
+*, body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Mina", sans-serif;
+}
+
+.container {
+    background: #FF0104;
+    background: linear-gradient(270deg, #FF0104, #010101);
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title {
+    letter-spacing: 4px;
+    font-family: "Bebas Neue", sans-serif;
+    color: #fff;
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+.para {
+    color: #fff;
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.btn-group {
+    display: flex;
+    flex-direction: row;
+    gap: 25px;
+    width: auto; /* Adjust width as needed */
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-group button {
+    font-weight: 600;
+    height: 50px;
+    padding: 10px 20px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border: none;
+    border-radius: 5px;
+    font-size: 1em;
+    cursor: pointer;
+    backdrop-filter: blur(10px);
+    transition: background-color 0.3s ease;
+    text-align: center; /* Center text */
+    white-space: nowrap; /* Prevent text from wrapping */
+}
+
+.btn-group button:hover {
+    background-color: #ccc;
+}
+
+@media screen and (max-width: 600px) {
+    .btn-group {
+        flex-direction: column;
+        width: auto;
+    }
+
+    .btn-group button {
+        width: auto;
+        margin-bottom: 15px;
+    }
+}
