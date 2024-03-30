@@ -10,16 +10,20 @@ Built in Python to run on any IoT platform, DrivEazy, when used right, can save 
 
 ### Our Website is up and running
 With a simple and sweet UI, still in development phase will alter be used to download DrivEazy
-![Website Image](https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/aba6f5d2-41b7-4dd2-b693-e747599c12ec)
+![image](https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/97783261-66d6-4523-9fb0-d2f098760dcb)
+
 
 ### Android App
 We are also developing an Android app for people who **only have access to mobile phones**.  
-![Android App Image](https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/9ce4acf6-60cc-4674-87b8-42ada5ae1b61)
+![WhatsApp Image 2024-03-29 at 23 29 42_d481d0e3](https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/ee996083-b586-41f7-a4b6-7aaf6c53ff24)
 
 ### Python UI
 Not to mention our Python-based UI as well, that can run on bare minimum hardware and all you need is a stereo camera which is cheap nowadays. A simple, easy on the eyes GUI  
-![Python UI Image](https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/73f9d380-6b48-4fcc-96fc-9198a08537bd)
+![WhatsApp Image 2024-03-30 at 07 54 32_f8bb55f7](https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/13833b8d-8e71-4795-bd08-a5c8416f216d)
+
 
 ## Working Demo
 Here is the working demo  
-![Demo Image](https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/c8f8df50-68d2-415c-aecd-c57af7e9ce06)
+https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/d692751a-ffe2-4c98-b2a3-6a2a0f9ef669
+
+
