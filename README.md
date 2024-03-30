@@ -24,6 +24,7 @@ Not to mention our Python-based UI as well, that can run on bare minimum hardwar
 
 ## Working Demo
 Here is the working demo  
-https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/d692751a-ffe2-4c98-b2a3-6a2a0f9ef669
+
+https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/bd699eb8-fcb9-436a-ba60-80a040763c4e
 
 
