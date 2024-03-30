@@ -19,7 +19,7 @@ We are also developing an Android app for people who **only have access to mobil
 
 ### Python UI
 Not to mention our Python-based UI as well, that can run on bare minimum hardware and all you need is a stereo camera which is cheap nowadays. A simple, easy on the eyes GUI  
-![WhatsApp Image 2024-03-30 at 07 54 32_f8bb55f7](https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/13833b8d-8e71-4795-bd08-a5c8416f216d)
+![Screenshot 2024-03-30 090351](https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/aa872a18-931d-4145-967e-9d2482c14a5f)
 
 
 ## Working Demo
