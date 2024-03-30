@@ -8,6 +8,10 @@ Built in Python to run on any IoT platform, DrivEazy, when used right, can save 
 - [Python UI](#python-ui)
 - [Working Demo](#working-demo)
 
+### Here's the much required DFD:
+![Screenshot 2024-03-30 081939](https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/fb0d5342-ae43-4a3f-84fe-14a82e31f3af)
+
+
 ### Our Website is up and running
 With a simple and sweet UI, still in development phase will alter be used to download DrivEazy
 ![image](https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/97783261-66d6-4523-9fb0-d2f098760dcb)
