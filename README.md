@@ -32,3 +32,8 @@ Here is the working demo
 https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/bd699eb8-fcb9-436a-ba60-80a040763c4e
 
 
+### It can even detect your YAWNING and drowsy behaviour:
+
+https://github.com/adityabhamare10/MozohackHackathonProject/assets/72994819/ba907842-abef-4fa6-9228-7ca157b4d841
+
+
